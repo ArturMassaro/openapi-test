@@ -1,0 +1,21 @@
+_id: req_cd75b40f79d3408dae0d2e2bc63ccf86
+authentication: {}
+body: {}
+created: 1596344270790
+description: ""
+headers: []
+isPrivate: false
+metaSortKey: -1596344270790
+method: GET
+modified: 1596344485916
+name: My Request
+parameters: []
+parentId: wrk_1954249df2ea41429a949a6a807a9e23
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: https://api.github.com/orgs/123/repos
